@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 👨🏻‍💻 My name is Beren Akpinar and I am studying Computer Science and Neuroscience student at Boston University 
+ 👨🏻‍💻 My name is Beren Akpinar and I am studying Computer Science and Neuroscience at Boston University 
 
  💡 I am interested in specializing in neurotechnology and pursuing careers in the industry where I can utilize my skills to make innovations in healthcare and beyond.
 
