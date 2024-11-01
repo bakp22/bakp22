@@ -10,6 +10,7 @@
   - ⚛ React
   - 📝 JavaScript
   - 🕸️ HTML/CSS
+  - 🍎 Swift
 
 ### How to reach me:
 https://www.linkedin.com/in/berenakpinar/
