@@ -4,6 +4,8 @@
 
  💡 I am interested in specializing in neurotechnology and pursuing careers in the industry where I can utilize my skills to make innovations in healthcare and beyond.
 
+ 👾 During my free time, I like to explore concepts in full-stack development and mobile app development, while watching Christopher Nolan films(🔥). 
+
 ### Languages that I know
   - ☕ Java
   - 🐍 Python
