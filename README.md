@@ -1,10 +1,12 @@
 ## Hi there 👋
 
- 👨🏻‍💻 My name is Beren Akpinar and I am studying Computer Science and Neuroscience at Boston University 
+ 👨🏻‍💻 My name is Beren Akpinar and I am studying Computer Science and Neuroscience at Boston University.
 
  💡 I am interested in specializing in neurotechnology and pursuing careers in the industry where I can utilize my skills to make innovations in healthcare and beyond.
 
- 👾 During my free time, I like to explore concepts in full-stack development and mobile app development, while watching Christopher Nolan films(🔥). 
+ 👾 During my free time, I like to explore concepts in full-stack development and mobile app development.
+
+ 🔥 Fun Facts: I love Christopher Nolan Movies, and I am a licensed windsurfer!
 
 ### Languages that I know
   - ☕ Java
