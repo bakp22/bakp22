@@ -16,6 +16,9 @@
   - 🕸️ HTML/CSS
   - 🍎 Swift
 
+### Relevant Coursewrok
+  - Computational Neuroscience, MATLAB Programming for Neuroscience, Introduction to Analysis of Algorithms, Data Structures, Object-Oriented Programming
+
 ### How to reach me:
 https://www.linkedin.com/in/berenakpinar/
 
