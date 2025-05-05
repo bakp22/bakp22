@@ -4,7 +4,7 @@
 
  💡 I am interested in specializing in neurotechnology and pursuing careers in the industry where I can utilize my skills to make innovations in healthcare and beyond.
 
- 👾 During my free time, I like to explore concepts in full-stack development and mobile app development.
+ 👾 During my free time, I like to explore concepts in Robotics.
 
  🔥 Fun Facts: I love Christopher Nolan Movies, and I am a licensed windsurfer!
 
