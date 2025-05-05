@@ -8,6 +8,9 @@
 
  🔥 Fun Facts: I love Christopher Nolan Movies, and I am a licensed windsurfer!
 
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,matlab,ros,ubuntu,vim,linux,mac,react,swift,arduino,git,latex)](https://skillicons.dev)
+
+
 ### Languages that I know
   - ☕ Java
   - 🐍 Python
