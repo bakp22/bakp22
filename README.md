@@ -17,8 +17,7 @@
 ### How to reach me:
 https://www.linkedin.com/in/berenakpinar/
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bakp22&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bakp22&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **bakp22/bakp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
