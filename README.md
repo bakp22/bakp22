@@ -2,7 +2,7 @@
 
  👨🏻‍💻 My name is Beren Akpinar and I am studying Computer Science and Neuroscience at Boston University.
 
- 💡 I am interested in specializing in neurotechnology and pursuing careers in the industry where I can utilize my skills to make innovations in healthcare and beyond.
+ 💡 I am interested in pursuing research in neuroprosthetics and wearable robotics. I hope to utilize my specializaiton in R&D roles in the industry positions to help people suffering from muscular dystrophy and neurodegenerative diseases.
 
  👾 During my free time, I like to explore concepts in Robotics.
 
@@ -15,7 +15,8 @@
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,swift,java,python,matlab,ros,cpp,ubuntu,vim,arduino,git,latex)](https://skillicons.dev)
 
 ### How to reach me:
-https://www.linkedin.com/in/berenakpinar/
+[![My Skills](https://www.linkedin.com/in/berenakpinar/)](https://www.linkedin.com/in/berenakpinar/)
+ 🔗  https://www.linkedin.com/in/berenakpinar/
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bakp22&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
