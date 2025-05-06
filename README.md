@@ -2,7 +2,7 @@
 
  👨🏻‍💻 My name is Beren Akpinar and I am studying Computer Science and Neuroscience at Boston University.
 
- 💡 I’m passionate about research in neuroprosthetics and wearable robotics. I hope to apply my specialization in R&D roles within industry to help individuals affected by muscular dystrophy and neurodegenerative diseases.
+ 💡 I’m passionate about research in neuroprosthetics and wearable robotics. I hope to apply my specialization in R&D roles within the tech industry to help individuals affected by muscular dystrophy and neurodegenerative diseases.
 
  👾 During my free time, I like to explore concepts in Robotics.
 
