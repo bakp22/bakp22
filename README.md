@@ -12,7 +12,7 @@
   - Computational Neuroscience, MATLAB Programming for Neuroscience, Introduction to Analysis of Algorithms, Data Structures, Object-Oriented Programming, Introduction to Artificial Intelligence
     
 ### Skills
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,swift,java,python,matlab,ros,cpp,ubuntu,vim,linux,arduino,git,latex)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,swift,java,python,matlab,ros,cpp,ubuntu,vim,arduino,git,latex)](https://skillicons.dev)
 
 ### How to reach me:
 https://www.linkedin.com/in/berenakpinar/
