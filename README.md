@@ -9,14 +9,17 @@
  🔥 Fun Facts: I love Christopher Nolan Movies, and I am a licensed windsurfer!
 
  ### Relevant Coursewrok
-  - Computational Neuroscience, MATLAB Programming for Neuroscience, Introduction to Analysis of Algorithms, Data Structures, Object-Oriented Programming, Introduction to Artificial Intelligence
+  - Computational Neuroscience
+  - MATLAB Programming for Neuroscience
+  - Introduction to Analysis of Algorithms
+  - Data Structures, Object-Oriented Programming
+  -  Introduction to Artificial Intelligence
     
 ### Skills
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,swift,java,python,matlab,ros,cpp,ubuntu,vim,arduino,git,latex)](https://skillicons.dev)
 
 ### How to reach me:
-[![My Skills](https://www.linkedin.com/in/berenakpinar/)](https://www.linkedin.com/in/berenakpinar/)
- 🔗  https://www.linkedin.com/in/berenakpinar/
+🔗 https://www.linkedin.com/in/berenakpinar/
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bakp22&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
